@@ -1,0 +1,15 @@
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/showHour/bin/Debug/net6.0/showHour
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/showHour/bin/Debug/net6.0/showHour.deps.json
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/showHour/bin/Debug/net6.0/showHour.runtimeconfig.json
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/showHour/bin/Debug/net6.0/showHour.dll
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/showHour/bin/Debug/net6.0/ref/showHour.dll
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/showHour/bin/Debug/net6.0/showHour.pdb
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/showHour/obj/Debug/net6.0/showHour.csproj.AssemblyReference.cache
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/showHour/obj/Debug/net6.0/showHour.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/showHour/obj/Debug/net6.0/showHour.AssemblyInfoInputs.cache
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/showHour/obj/Debug/net6.0/showHour.AssemblyInfo.cs
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/showHour/obj/Debug/net6.0/showHour.csproj.CoreCompileInputs.cache
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/showHour/obj/Debug/net6.0/showHour.dll
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/showHour/obj/Debug/net6.0/ref/showHour.dll
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/showHour/obj/Debug/net6.0/showHour.pdb
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/showHour/obj/Debug/net6.0/showHour.genruntimeconfig.cache
