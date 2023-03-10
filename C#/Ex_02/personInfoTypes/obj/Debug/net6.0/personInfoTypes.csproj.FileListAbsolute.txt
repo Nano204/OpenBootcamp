@@ -1,0 +1,15 @@
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/Ex_02/personInfoTypes/bin/Debug/net6.0/personInfoTypes
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/Ex_02/personInfoTypes/bin/Debug/net6.0/personInfoTypes.deps.json
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/Ex_02/personInfoTypes/bin/Debug/net6.0/personInfoTypes.runtimeconfig.json
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/Ex_02/personInfoTypes/bin/Debug/net6.0/personInfoTypes.dll
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/Ex_02/personInfoTypes/bin/Debug/net6.0/ref/personInfoTypes.dll
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/Ex_02/personInfoTypes/bin/Debug/net6.0/personInfoTypes.pdb
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/Ex_02/personInfoTypes/obj/Debug/net6.0/personInfoTypes.csproj.AssemblyReference.cache
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/Ex_02/personInfoTypes/obj/Debug/net6.0/personInfoTypes.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/Ex_02/personInfoTypes/obj/Debug/net6.0/personInfoTypes.AssemblyInfoInputs.cache
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/Ex_02/personInfoTypes/obj/Debug/net6.0/personInfoTypes.AssemblyInfo.cs
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/Ex_02/personInfoTypes/obj/Debug/net6.0/personInfoTypes.csproj.CoreCompileInputs.cache
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/Ex_02/personInfoTypes/obj/Debug/net6.0/personInfoTypes.dll
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/Ex_02/personInfoTypes/obj/Debug/net6.0/ref/personInfoTypes.dll
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/Ex_02/personInfoTypes/obj/Debug/net6.0/personInfoTypes.pdb
+/mnt/045025C35025BC74/Linux/Projects/OpenBootcamp/C#/Ex_02/personInfoTypes/obj/Debug/net6.0/personInfoTypes.genruntimeconfig.cache
